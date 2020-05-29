@@ -1,4 +1,5 @@
 def my_each(array) # put argument(s) here
-  counter = 
+  counter = 0 
+  
   # code here
 end
